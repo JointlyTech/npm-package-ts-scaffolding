@@ -8,7 +8,7 @@ It also provides a Husky pre-commit hook to run some linting based on prettier a
 ## How To Install?
 
 ```bash
-git clone git://github.com/Cadienvan/npm-package-ts-scaffolding.git package_name
+git clone git://github.com/JointlyTech/npm-package-ts-scaffolding.git package_name
 cd package_name
 npm install
 npx husky install
