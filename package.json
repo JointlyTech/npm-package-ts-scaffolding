@@ -57,7 +57,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Cadienvan/npm-package-ts-scaffolding.git"
+    "url": "git://github.com/JointlyTech/npm-package-ts-scaffolding.git"
   },
   "license": "MIT",
   "author": "Michael Di Prisco <cadienvan@gmail.com>",
